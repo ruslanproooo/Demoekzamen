@@ -21,3 +21,6 @@ Controller - получает данные, обрабатывает запро�
 OrgTech
 ![image](https://github.com/user-attachments/assets/869f71e7-6655-47b5-a4d9-177b85795899)
 ![image](https://github.com/user-attachments/assets/ba672447-d3a0-43bd-a0f1-bb02742c0f9f)
+Нарушений нет
+![image](https://github.com/user-attachments/assets/591be006-5f95-4f66-9ebe-47c795ba6003)
+![image](https://github.com/user-attachments/assets/df3e8012-798b-4b03-bca5-c6cf8bba7f0f)
