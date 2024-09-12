@@ -18,3 +18,6 @@ MVС- модель, контроллер, представление
 View: HTML&CSS
 Controller - получает данные, обрабатывает запросы
 Файлы xampp хранятся в папке htdocs
+OrgTech
+![image](https://github.com/user-attachments/assets/869f71e7-6655-47b5-a4d9-177b85795899)
+![image](https://github.com/user-attachments/assets/ba672447-d3a0-43bd-a0f1-bb02742c0f9f)
